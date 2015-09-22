@@ -1,3 +1,3 @@
-# Raspberry Pi でルーター／サーバーを作る
+# Raspberry Pi
 
 
